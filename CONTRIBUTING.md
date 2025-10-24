@@ -81,26 +81,6 @@ Example commit messages for common changes:
 
 This section describes the various roles and responsibilities in the Terraform Baseline project.
 
-### 🦸‍♀️ External contributors
-
-An external contributor should:
-
-- Create forks of Terraform Baseline repositories.
-- Create issues and pull requests in Terraform Baseline repositories.
-
-### 👨‍🎓 Contributors
-
-A contributor must:
-
-- Be a member of the [@equinor/terraform-baseline](https://github.com/orgs/equinor/teams/terraform-baseline) team.
-- Actively contribute to one or more Terraform Baseline repositories.
-
-A contributor should:
-
-- Have basic understanding of Terraform.
-- Have basic understanding of Terraform Baseline best practices.
-- Create module repositories.
-
 ### 👷‍♀️ Maintainers
 
 A maintainer must:

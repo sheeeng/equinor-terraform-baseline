@@ -19,7 +19,6 @@
 
     | Team | Role |
     | --- | --- |
-    | @equinor/terraform-baseline | `Write` |
     | @equinor/terraform-baseline-admins | `Admin` |
     | @equinor/terraform-baseline-maintainers | `Maintain` |
 
