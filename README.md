@@ -1,10 +1,5 @@
 # Equinor Terraform Baseline
 
-[![GitHub contributors](https://img.shields.io/github/contributors/equinor/terraform-baseline)](https://github.com/equinor/terraform-baseline/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues/equinor/terraform-baseline)](https://github.com/equinor/terraform-baseline/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/equinor/terraform-baseline)](https://github.com/equinor/terraform-baseline/pulls)
-[![GitHub License](https://img.shields.io/github/license/equinor/terraform-baseline)](LICENSE)
-
 Terraform Baseline is:
 
 - 📝 A set of best practices for creating reusable Terraform modules using the Azure provider.
